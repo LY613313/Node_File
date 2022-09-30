@@ -4,7 +4,7 @@
 
 先点击View Source，查看一下源码
 
-![](./2022-09-26 115521.jpg)
+![](https://github.com/LY613313/Node_File/blob/main/DVWA_Node/2022-09-26%20115521.jpg)
 
 源代码如下
 
