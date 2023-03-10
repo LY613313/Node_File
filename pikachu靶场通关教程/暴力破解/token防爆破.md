@@ -155,25 +155,26 @@ include_once $PIKA_ROOT_DIR.'footer.php';
 
 将攻击类型Attack type设置为Pitchfork
 
-![image-20230303141727370](C:\Users\linyunong\Desktop\Note\pikachu靶场通关教程\暴力破解\images\image-20230303141727370.png)
+![image-20230303141727370](https://github.com/LY613313/Node_File/tree/main/pikachu%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E6%95%99%E7%A8%8B/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/images/image-20230303141727370.png)
 
 在Options下的Grep-Extract中点击Add添加攻击需要用到的信息(user_token)，在该页面点击Fetch response后在返回的代码中找到user_token的值，并将其选中后复制(后续需要用到)
 
-![image-20230303142315157](C:\Users\linyunong\Desktop\Note\pikachu靶场通关教程\暴力破解\images\image-20230303142315157.png)
+![image-20230303142315157]
+(https://github.com/LY613313/Node_File/tree/main/pikachu%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E6%95%99%E7%A8%8B/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/images/image-20230303142315157.png)
 
 请求线程数设置为1
 
-![image-20230303142425780](C:\Users\linyunong\Desktop\Note\pikachu靶场通关教程\暴力破解\images\image-20230303142425780.png)
+![image-20230303142425780](https://github.com/LY613313/Node_File/tree/main/pikachu%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E6%95%99%E7%A8%8B/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/images/image-20230303142425780.png)
 
 选中Payload set 1 ，将Payload type 设置为Simple list
 
-![image-20230303142506333](C:\Users\linyunong\Desktop\Note\pikachu靶场通关教程\暴力破解\images\image-20230303142506333.png)
+![image-20230303142506333](https://github.com/LY613313/Node_File/tree/main/pikachu%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E6%95%99%E7%A8%8B/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/images/image-20230303142506333.png)
 
 选中Payload set 2 ，将Payload type设置为Recursive grep，将刚才复制的user_token值设置为第一次请求的user_token值
 
-![image-20230303142536859](C:\Users\linyunong\Desktop\Note\pikachu靶场通关教程\暴力破解\images\image-20230303142536859.png)
+![image-20230303142536859](https://github.com/LY613313/Node_File/tree/main/pikachu%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E6%95%99%E7%A8%8B/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/images/image-20230303142536859.png)
 
 爆破结果如下
 
-![image-20230303142615543](C:\Users\linyunong\Desktop\Note\pikachu靶场通关教程\暴力破解\images\image-20230303142615543.png)
+![image-20230303142615543https://github.com/LY613313/Node_File/tree/main/pikachu%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E6%95%99%E7%A8%8B/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/images/image-20230303142615543.png)
 
