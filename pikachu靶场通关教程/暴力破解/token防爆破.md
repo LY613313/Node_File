@@ -155,12 +155,11 @@ include_once $PIKA_ROOT_DIR.'footer.php';
 
 将攻击类型Attack type设置为Pitchfork
 
-![image-20230303141727370](https://github.com/LY613313/Node_File/tree/main/pikachu%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E6%95%99%E7%A8%8B/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/images/image-20230303141727370.png)
+![image-20230303141727370](https://github.com/LY613313/Node_File/tree/main/pikachu靶场通关教程/暴力破解/images/image-20230303141727370.png)
 
 在Options下的Grep-Extract中点击Add添加攻击需要用到的信息(user_token)，在该页面点击Fetch response后在返回的代码中找到user_token的值，并将其选中后复制(后续需要用到)
 
-![image-20230303142315157]
-(https://github.com/LY613313/Node_File/tree/main/pikachu%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E6%95%99%E7%A8%8B/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/images/image-20230303142315157.png)
+![image-20230303142315157](https://github.com/LY613313/Node_File/tree/main/pikachu%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E6%95%99%E7%A8%8B/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/images/image-20230303142315157.png)
 
 请求线程数设置为1
 
